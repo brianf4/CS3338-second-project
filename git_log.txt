@@ -1,0 +1,45 @@
+commit d122800ddcf040ea2ef4df185df019c6d81f5d8a
+Merge: 71a576b b88ec08
+Author: Brian Fuentes <Brian.Fuentes04@gmail.com>
+Date:   Fri Feb 6 16:24:06 2026 -0800
+
+    fixed merge conflict in index.html
+
+commit b88ec085dd038f7108260e50153e20e05b11499c
+Author: Brian Fuentes <Brian.Fuentes04@gmail.com>
+Date:   Fri Feb 6 16:16:09 2026 -0800
+
+    added a new line in html w/ favorite movie
+
+commit 71a576b9a25e9b263133c39e9ae8e857fdd4c963
+Author: Brian Fuentes <Brian.Fuentes04@gmail.com>
+Date:   Fri Feb 6 16:14:41 2026 -0800
+
+    added a new line in html
+
+commit 3f45a0bb4459277b23afa6e9a6f8f0eeb4d054f6
+Author: Brian Fuentes <Brian.Fuentes04@gmail.com>
+Date:   Fri Feb 6 16:00:25 2026 -0800
+
+    Add project title to README
+
+commit 7722e997e96becb2815d773db26c71f33f32ac52
+Merge: 1d2bfc0 ba0db81
+Author: Brian Fuentes <Brian.Fuentes04@gmail.com>
+Date:   Fri Feb 6 15:58:32 2026 -0800
+
+    Merge pull request #1 from brianf4/info-fill
+    
+    updated two lines in html
+
+commit ba0db811ce6cbeb052de6680ebc69dd773e407ac
+Author: Brian Fuentes <Brian.Fuentes04@gmail.com>
+Date:   Fri Feb 6 15:42:46 2026 -0800
+
+    updated two lines in html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
